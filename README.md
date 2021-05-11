@@ -20,27 +20,27 @@
 <tr>
 <td>Design</td>
 <td>12/05/2021</td>
-<td>Yes</td>
+<td>No</td>
 </tr>
 <tr>
 <td>Game Development</td>
 <td>13/05/2021</td>
-<td>Yes</td>
+<td>No</td>
 </tr>
 <tr>
 <td>Web Development</td>
 <td>14/05/2021</td>
-<td>Yes</td>
+<td>No</td>
 </tr>
 <tr>
 <td>Machine Learning</td>
 <td>15/05/2021</td>
-<td>Yes</td>
+<td>No</td>
 </tr>
 <tr>
 <td>App Development</td>
 <td>16/05/2021</td>
-<td>Yes</td>
+<td>No</td>
 </tr>
 </table>
 
